@@ -53,7 +53,7 @@
 </nav>
  <div class="card">
   <div class="card-body">
-    Selamat Datang {{ $biodata['nama'] }} di halaman Login
+    Selamat Datang {{ $nama }} di halaman Login
     
   </div>
 </div>
