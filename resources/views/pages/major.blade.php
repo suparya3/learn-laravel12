@@ -1,4 +1,5 @@
 @extends('layouts.master')
 @section('content')
-    <h1>Welcome To My Website</h1>
+ <div class="alert alert-primary" role="alert">
+  Welcome To Page Major</div>
 @endsection
